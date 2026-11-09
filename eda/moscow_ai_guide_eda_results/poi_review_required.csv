@@ -1,0 +1,4 @@
+﻿poi_id,wiki_title_seed,area_group,article_title,qid,wiki_url,wp_latitude,wp_longitude,is_disambiguation,review_reason,requested_title,match_status,wd_latitude,wd_longitude,sitelinks,latitude,longitude,coordinate_source,inside_bbox
+POI_035,Парящий мост,Кремль и Красная площадь,,,,,,False,нет точной статьи или QID,Парящий мост (Москва),review_required,,,,,,missing,False
+POI_108,Сетуньский стан,Запад и юго-запад Москвы,,,,,,False,нет точной статьи или QID,Сетуньский стан,review_required,,,,,,missing,False
+POI_194,Музей иллюзий Москвы,Музеи и культурные площадки,,,,,,False,нет точной статьи или QID,Музей иллюзий Москвы,review_required,,,,,,missing,False
